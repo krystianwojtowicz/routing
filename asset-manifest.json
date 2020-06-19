@@ -1,0 +1,16 @@
+{
+  "main.css": "/routing/./static/css/main.124b988d.chunk.css",
+  "main.js": "/routing/./static/js/main.815c69d5.chunk.js",
+  "main.js.map": "/routing/./static/js/main.815c69d5.chunk.js.map",
+  "runtime~main.js": "/routing/./static/js/runtime~main.cf7a9b9b.js",
+  "runtime~main.js.map": "/routing/./static/js/runtime~main.cf7a9b9b.js.map",
+  "static/js/2.6dde60d9.chunk.js": "/routing/./static/js/2.6dde60d9.chunk.js",
+  "static/js/2.6dde60d9.chunk.js.map": "/routing/./static/js/2.6dde60d9.chunk.js.map",
+  "index.html": "/routing/./index.html",
+  "precache-manifest.43c98196a5101e9c5d3dac2baf5c38c3.js": "/routing/./precache-manifest.43c98196a5101e9c5d3dac2baf5c38c3.js",
+  "service-worker.js": "/routing/./service-worker.js",
+  "static/css/main.124b988d.chunk.css.map": "/routing/./static/css/main.124b988d.chunk.css.map",
+  "static/media/header1.jpg": "/routing/./static/media/header1.6c3c53dc.jpg",
+  "static/media/header2.jpg": "/routing/./static/media/header2.e9cb24ae.jpg",
+  "static/media/header3.jpg": "/routing/./static/media/header3.28f9c40a.jpg"
+}
