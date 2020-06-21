@@ -11,7 +11,6 @@ const Footer = () => {
       } />
 
       <Route path="/:page" exact render={(props) => {
-        console.log(props);
         return (
           <>
             <p>Jesteś na <span>{props.match.params.page}</span></p>
@@ -22,7 +21,6 @@ const Footer = () => {
       }} />
 
       <Route path="/:page/:idProduct" exact render={(props) => {
-        console.log(props);
         return (
           <>
             <p>Jesteś na <span>{props.match.params.idProduct}</span></p>
